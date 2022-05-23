@@ -1,0 +1,56 @@
+[
+    {
+        "_id": 1,
+        "name": "Wire strippers",
+        "images": "https://i.ibb.co/64cWjnZ/strippers.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    },
+    {
+        "_id": 2,
+        "name": "Screwdrivers",
+        "images": "https://i.ibb.co/FhGh7wM/screwdrivers.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    },
+    {
+        "_id": 3,
+        "name": "Pliers",
+        "images": "https://i.ibb.co/hCjr2JR/pliers.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    },
+    {
+        "_id": 4,
+        "name": "Claw-Hammer",
+        "images": "https://i.ibb.co/TqYr8L3/Claw-Hammer-1.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    },
+    {
+        "_id": 5,
+        "name": "Hacksaws",
+        "images": "https://i.ibb.co/W6zTmx5/Hacksaws.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    },
+    {
+        "_id": 6,
+        "name": "Safety-knife",
+        "images": "https://i.ibb.co/W6JZS2C/Safety-knife.jpg",
+        "description": "",
+        "minimum quantity": "",
+        "available quantity": "",
+        "price": ""
+    }
+]
