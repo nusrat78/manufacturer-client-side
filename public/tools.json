@@ -3,54 +3,54 @@
         "_id": 1,
         "name": "Wire strippers",
         "images": "https://i.ibb.co/64cWjnZ/strippers.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Wire strippers are plier-like tools used to remove the insulating outer sheath from cables in order to attach terminals or connectors to the central core via crimping or soldering. Some strippers also allow electricians to cut right through the copper or conduit in a wire or cable.",
+        "minimum quantity": "6",
+        "available quantity": "324",
+        "price": "4.45"
     },
     {
         "_id": 2,
         "name": "Screwdrivers",
         "images": "https://i.ibb.co/FhGh7wM/screwdrivers.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Screwdrivers are one of the most traditional of tools but are still indispensable for most electricians who frequently require access to electrical containers sealed with screws. There are multiple sizes and shapes available for compatibility with the abundance of screw designs.",
+        "minimum quantity": "10",
+        "available quantity": "460",
+        "price": "0.30"
     },
     {
         "_id": 3,
         "name": "Pliers",
         "images": "https://i.ibb.co/hCjr2JR/pliers.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Pliers are another tool that has been with us for a long time. Their versatility means they can be used to accomplish a multitude of tasks requiring ‘torque’, working in a much more robust manner than would be possible with the use of bare hands alone.",
+        "minimum quantity": "7",
+        "available quantity": "270",
+        "price": "1.10"
     },
     {
         "_id": 4,
         "name": "Claw-Hammer",
         "images": "https://i.ibb.co/TqYr8L3/Claw-Hammer-1.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Claw hammers feature a standard hammer on one side of the tool, primarily used for inserting fixtures like nails, and a dual steel claw at the other end, which is designed to enable the easy removal of the same nails or similar fixtures by applying a robust grip.",
+        "minimum quantity": "3",
+        "available quantity": "120",
+        "price": "0.86"
     },
     {
         "_id": 5,
         "name": "Hacksaws",
         "images": "https://i.ibb.co/W6zTmx5/Hacksaws.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Hacksaws are fine-toothed saws designed primarily for cutting through metal. The thin blades are held at tension in an adjustable frame, between the head of the saw and the pistol grip handle. These blades can break or become blunt but are easily replaceable.",
+        "minimum quantity": "4",
+        "available quantity": "200",
+        "price": "3.90"
     },
     {
         "_id": 6,
         "name": "Safety-knife",
         "images": "https://i.ibb.co/W6JZS2C/Safety-knife.jpg",
-        "description": "",
-        "minimum quantity": "",
-        "available quantity": "",
-        "price": ""
+        "description": "Safety knives are not just a specialist professional tool – they are in fact familiar to most of us. We may know them as Stanley knives, utility knives, pen knives or box cutters.Blades are usually replaceable when they break or go blunt.",
+        "minimum quantity": "5",
+        "available quantity": "350",
+        "price": "1.90"
     }
 ]
