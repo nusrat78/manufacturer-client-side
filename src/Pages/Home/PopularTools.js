@@ -11,7 +11,7 @@ const PopularTools = () => {
     }, [])
     return (
         <div>
-            <h1 className='text-xl text-secondary text-center'>Our Popular Tools</h1>
+            <h1 className='text-xl text-center'>Our Popular Tools</h1>
             <div className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
                 {
                     tools.map(tool => <Tool
