@@ -31,10 +31,8 @@ const SignUp = () => {
         signInError = <p className="text-red-500">{error?.message || gError?.message || updateError.message}</p>
     }
 
-    if (user || gUser) {
-        console.log(user || gUser);
-        // navigate('/login');
-        console.log(user);
+    if (token) {
+        navigate('/login');
     }
 
 

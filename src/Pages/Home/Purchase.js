@@ -27,6 +27,7 @@ const Purchase = () => {
 
         }
 
+
         fetch('http://localhost:5000/purchasing', {
             method: 'POST',
             headers: {
