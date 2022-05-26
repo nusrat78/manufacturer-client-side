@@ -32,7 +32,7 @@ const SignUp = () => {
     }
 
     if (token) {
-        navigate('/login');
+        navigate('/');
     }
 
 

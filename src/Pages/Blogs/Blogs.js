@@ -28,7 +28,13 @@ const Blogs = () => {
                 <div className="modal modal-bottom sm:modal-middle">
                     <div className="modal-box">
                         <h3 className="font-bold text-lg">Congratulations random Interner user!</h3>
-                        <p className="py-4">You've been selected for a chance to get one year of subscription to use Wikipedia for free!</p>
+                        <p className="py-4">
+                            There are four main types of state you need to properly manage in your React apps:
+                            Local state: Local state is data we manage in one or another component.
+                            Global state: Global state is data we manage across multiple components.
+                            Server state: Data that comes from an external server that must be integrated with our UI state.
+                            URL state: Data that exists on our URLs, including the pathname and query parameters.
+                        </p>
                         <div className="modal-action">
                             <label for="my-modal-6" className="btn">Yay!</label>
                         </div>
